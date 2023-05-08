@@ -1,6 +1,6 @@
 // Franklin Holguin
-//Software Engineer
-//www.franklinholguin.com
+// Software Engineer
+// www.franklinholguin.com
 
 // SPDX-License-Identifier: MIT
 pragma solidity  >=0.7.0<0.9.0;
@@ -53,7 +53,7 @@ contract Ballot {
 
     }
 
-    // funtion for authenticate votes
+    // function for authenticate votes
 
     function giveRightToVote(address voter) public  {
         require(msg.sender == chairperson, 
