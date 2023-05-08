@@ -1,4 +1,4 @@
-## PROJECT DESCRIPTION
+# PROJECT DESCRIPTION
 
 I have always dreamed of a voting system independent of political vices, a functional system with unique features that 
 allows us to choose our options freely with voters, this dapps  undoubtedly has that potential  and global scalability.
@@ -6,7 +6,7 @@ allows us to choose our options freely with voters, this dapps  undoubtedly has 
 In the completely globalized world that we live in, I still try to find explanations for why in our nation we 
 do not advance in time and take a gigantic  step forward with the technologies that we  have at our disposal.
 
-## WHAT I LEARN
+# WHAT I LEARN
 - DApp
 - Solidity
 - Blockchain
